@@ -146,6 +146,7 @@ button:hover {
         padding: 30px;
         border-radius: 20px;
         box-shadow: 0 0 8px var(--gray);
+        text-align: center;
     }
 
     .contenedor-espera-responsive h2 {
@@ -154,13 +155,20 @@ button:hover {
 }
 
 @media screen and (max-width: 468px) {
+    .contenedor-texto, #texto-introducido {
+        width: 300px;
+        height: auto;
+    }
+
     .contenedor-botones {
-        width: 430px;
+        width: 300px;
+        margin: 0 auto;
     }
 
     .botones {
         display: flex;
         flex-direction: column;
         gap: 10px;
+        margin: 50px 0 0;
     }
 }
