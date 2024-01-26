@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Página web de encriptador de texto">
+    <meta name="author" content="Edalenp">
+    <meta name="copyright" content="Edalenp">
+    <title>Encriptador de texto - Reto Alura</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <img src="src/logo_alura.png" alt="Logo de Alura">
+    </header>
+
+    <main>
+        <div class="contenedor-texto">
+            <textarea id="texto-introducido" placeholder="Ingrese un texto aquí"></textarea>
+        </div>
+        
+        <div class="contenedor-espera">
+            <img src="src/persona.png" alt="Persona viendo un diamante con una lupa">
+            <h2>Ningún mensaje fue encontrado</h2>
+            <p>Ingresa el texto que desees encriptar o desencriptar</p>
+        </div>
+
+        <div class="contenedor-botones">
+            <div class="texto-advertencia">
+                <p id="advertencia">Solo letras minúsculas y sin acentos</p>
+            </div>
+
+            <div class="botones">
+                <button id="boton-encriptar"></button>
+                <button id="boton-desencriptar"></button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
