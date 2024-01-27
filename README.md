@@ -31,4 +31,10 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 # OBSERVACIÓN A TENER EN CUENTA
 
-> Se puede hacer mucho más fácil, pero mayoritariamente lo que está en el código se usó en los cursos iniciales de Alura. Principalemnte las cosas de las que no se usaron fueron "flex-box" en CSS y "eventos" de JavaScript. 
+1. No repetir letras innecesarias: esto lo explicaré con un ejemplo 
+
+Textos como "BUEENASSSSSSSSSSSSSSSSSSSSSSSSSS" o "HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+Esto lo digo porque cuando haces se romperá la página debido a que el texto se sale del contenedor en el que aparece, si tienen alguna forma de arreglarlo, lo cambiaré.
+
+2. Se puede hacer mucho más fácil, pero mayoritariamente lo que está en el código se usó en los cursos iniciales de Alura. Principalemnte las cosas de las que no se usaron fueron "flex-box" en CSS y "eventos" de JavaScript. 
