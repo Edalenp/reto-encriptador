@@ -1,5 +1,5 @@
 # RETO - ENCRIPTADOR DE TEXTO 
-> Estado >> En construcción
+> Estado >> Terminado
 
 <br>
 
