@@ -72,8 +72,6 @@ function agregar_texto() {
 
     // Estilos para el contenedor no responsivo 
     
-    // Estilos para el contenedor no responsivo 
-
     if (innerWidth > 1024) {
         espacio_texto.style.display = "block";
         espacio_texto.style.textAlign = "left";
@@ -93,12 +91,6 @@ function agregar_texto() {
     }
 
     texto_escrito.value = "";
-}
-
-// Función para agregar botón de copiar texto
-
-function agregar_boton_copiar() {
-
 }
 
 // Agregando eventos 
