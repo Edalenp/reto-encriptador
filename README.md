@@ -28,3 +28,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 # EXTRAS
 
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+# OBSERVACIÓN A TENER EN CUENTA
+
+> Se puede hacer mucho más fácil, pero mayoritariamente lo que está en el código se usó en los cursos iniciales de Alura. Principalemnte las cosas de las que no se usaron fueron "flex-box" en CSS y "eventos" de JavaScript. 
